@@ -3,8 +3,8 @@
 ---
 
 ## Notes
-- Use Windows 10 as your main OS.
-- Ask ChatGPT for clarification if needed.
+- Use Windows 10 as your main OS
+- Ask ChatGPT if something is unclear
 
 ---
 
