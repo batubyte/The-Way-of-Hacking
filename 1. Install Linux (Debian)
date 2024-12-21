@@ -1,0 +1,16 @@
+# Use windows 10 as host
+
+# Install Virtualbox, Extension Pack, Debian
+https://www.oracle.com/virtualization/virtualbox/
+https://www.debian.org/
+
+# After system installation
+```bash
+su -
+usermod -aG sudo <username>
+reboot
+
+sudo apt update && sudo apt upgrade -y
+sudo apt dist-upgrade -y
+sudo apt install -y curl wget git build-essential net-tools
+```
