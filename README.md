@@ -10,7 +10,7 @@
 
 ## Steps
 
-### 1. [Import Pre-Made Kali VirtualBox VM](https://github.com/batubyte/The-Way-of-Hacking/blob/main/1.%20Install%20Linux%20in%20Virtual%20Machine.md)
+### 1. [Linux](https://github.com/batubyte/The-Way-of-Hacking/blob/main/1.%20Install%20Linux%20in%20Virtual%20Machine.md)
 
 ### 2. [Anonymity](#)
 
