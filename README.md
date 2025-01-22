@@ -12,6 +12,6 @@
 
 ### 1. [Linux](https://github.com/batubyte/The-Way-of-Hacking/blob/main/1.%20Linux.md)
 
-### 2. [Anonymity](#)
+### 2. [Anonymity](https://github.com/batubyte/The-Way-of-Hacking/blob/main/2.%20Anonymity.md)
 
 ### 3. []()
