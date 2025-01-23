@@ -1,4 +1,11 @@
 # Linux
 
-## Step 1: Install Rufus
-1. (Download)[https://rufus.ie/]
+## Step 1: Download Ubuntu
+1. [Download](https://ubuntu.com/download/desktop)
+
+## Step 1: Install Rufus and Ubuntu
+1. [Download](https://rufus.ie/)
+2. Insert USB
+3. Start Rufus
+4. Select Ubuntu ISO
+5. Continue with default settings
