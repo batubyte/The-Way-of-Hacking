@@ -3,7 +3,7 @@
 ---
 
 ## Notes
-- Use Windows 10 as your main OS
+- Use Linux as your main OS
 - Ask ChatGPT if something is unclear
 
 ---
